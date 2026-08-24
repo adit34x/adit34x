@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%"/>
+<img src="C:\Users\aditd\OneDrive\Desktop\asset\banner.svg" width="100%"/>
 
 <img src="https://img.shields.io/badge/🍄_WORLD-1--1-E52521?style=for-the-badge&labelColor=000000">
 <img src="https://img.shields.io/badge/⭐_COINS-000-FBD000?style=for-the-badge&labelColor=000000&logoColor=black">
