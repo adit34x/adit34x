@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adit34x/adit34x/main/assets/banner.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/adit34x/adit34x/main/banner.svg" width="100%"/>
 
 <img src="https://img.shields.io/badge/🍄_WORLD-1--1-E52521?style=for-the-badge&labelColor=000000">
 <img src="https://img.shields.io/badge/⭐_COINS-000-FBD000?style=for-the-badge&labelColor=000000&logoColor=black">
@@ -122,3 +122,4 @@ An interactive AI-powered heritage platform, forged in the fires of a first hack
   README.md and the assets/ folder in the SAME repo (adit34x/adit34x)
   and the same relative path, and it'll render right on your profile.
 -->
+
