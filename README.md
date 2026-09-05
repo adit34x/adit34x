@@ -94,7 +94,7 @@ An interactive AI-powered heritage platform, forged in the fires of a first hack
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>*(pipe this into a GitHub Action on your profile repo to keep it animated live — see setup note below)*</sub>
+
 
 </div>
 
